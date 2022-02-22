@@ -52,6 +52,5 @@ Sơ đồ hoạt động:
 ## Developed by
 
 - [TLU - Lê Anh Đức](https://github.com/leanhducprovn)
-- [HUST - Phạm Văn Linh](https://github.com/phamvanlinhxyz/)
 
 >   Hệ thống vẫn đang trong quá trình phát triển!
