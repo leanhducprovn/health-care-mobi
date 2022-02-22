@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "health_care_mobi",
-    "slug": "health_care_mobi",
+    "name": "health-care-mobi",
+    "slug": "health-care-mobi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
