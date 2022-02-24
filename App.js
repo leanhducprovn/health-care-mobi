@@ -1,7 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { View, StyleSheet } from 'react-native'
 import { WebView } from 'react-native-webview';
-import * as AuthSession from 'expo-auth-session';
 
 export default function App() {
   return (
