@@ -4,16 +4,16 @@ import { WebView, WebViewNavigation } from "react-native-webview";
 
 // Send the cookie information back to the mobile app
 const CHECK_COOKIE = `
-  ReactNativeWebView.postMessage("Cookie: " + document.cookie);
-  true;
+	ReactNativeWebView.postMessage("Cookie: " + document.cookie);
+	true;
 `;
 
 export default function App() {
-  return <WebView style={styles.container} source={require("./index.html")} />;
+	return <WebView style={styles.container} source={require("./index.html")} />;
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
+	container: {
+		flex: 1,
+	},
 });
