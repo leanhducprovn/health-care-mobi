@@ -1,7 +1,7 @@
 import React from "react";
 import { StyleSheet } from "react-native";
 import { WebView, WebViewNavigation } from "react-native-webview";
-import CookieManager from "@react-native-community/cookies";
+import Cookies from 'universal-cookie';
 
 // Send the cookie information back to the mobile app
 const CHECK_COOKIE = `
@@ -21,7 +21,7 @@ const onMessage = async (event) => {
 
     if (data.includes("Cookie:")) {
         // process the cookies
-        const storedCookies = await CookieManager.get("https://mywebapp.com/login", true);
+        const storedCookies = await CookieManager.get("http://localhost:3000/auth", true);
     }
 };
 
