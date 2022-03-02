@@ -1,7 +1,6 @@
 import React from "react";
 import { StyleSheet } from "react-native";
 import { WebView, WebViewNavigation } from "react-native-webview";
-import Cookies from 'universal-cookie';
 
 // Send the cookie information back to the mobile app
 const CHECK_COOKIE = `
