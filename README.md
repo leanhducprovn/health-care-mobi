@@ -41,7 +41,7 @@ Phần mềm được coi như một sổ khám sức khỏe điện tư
 
 ## Database design
 
-![enter image description here](https://i.imgur.com/BE3jG0p.png)
+![Database design](https://camo.githubusercontent.com/e80715b4244b5c6cc4538c6152ae317d400a77832ed50f6e58e9d990bafe4918/68747470733a2f2f692e696d6775722e636f6d2f7166416c6250312e706e67)
 
 ## MVC paradigm
 
@@ -51,6 +51,8 @@ Sơ đồ hoạt động:
 
 ## Developed by
 
-- [TLU - Lê Anh Đức](https://github.com/leanhducprovn)
+-   [TLU - Lê Anh Đức](https://github.com/leanhducprovn)
 
->   Hệ thống vẫn đang trong quá trình phát triển!
+> Hệ thống vẫn đang trong quá trình phát triển!
+
+**Note**: _Project built with React Native!_
